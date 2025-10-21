@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>RiceBeta0.0</title>
+        <item>
+            <title>0.0.9</title>
+            <pubDate>Tue, 21 Oct 2025 11:18:01 +0100</pubDate>
+            <sparkle:version>0.0.9</sparkle:version>
+            <sparkle:shortVersionString>0.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tryrice/rice-beta-releases/releases/download/release/RiceBeta.dmg" length="74489856" type="application/octet-stream" sparkle:edSignature="8V1Ny/RLJqkJZsvkI9gb0k+M/CO+dqOwxLkJNUyEYsQWDkBQ0dyNIJyF2zYWhGgfrXu9FwH9StckLbkOKgOHAw=="/>
+        </item>
+    </channel>
+</rss>

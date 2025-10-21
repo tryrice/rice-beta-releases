@@ -8,7 +8,7 @@
             <sparkle:version>0.0.93</sparkle:version>
             <sparkle:shortVersionString>0.0.93</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://tryrice.github.io/rice-beta-releases/RiceBeta.dmg" length="24592755" type="application/octet-stream" sparkle:edSignature="xfVlXY3izopeIRS58LPjEUq+CJny2h3Qt/lrL0jg+RgtTL2/bxtk8fwrI0HLe/tkMimylSJ1XzsHCedSBPGGDg=="/>
+            <enclosure url="https://github.com/tryrice/rice-beta-releases/releases/download/beta-v0.0.93/RiceBeta.dmg" length="24592755" type="application/octet-stream" sparkle:edSignature="xfVlXY3izopeIRS58LPjEUq+CJny2h3Qt/lrL0jg+RgtTL2/bxtk8fwrI0HLe/tkMimylSJ1XzsHCedSBPGGDg=="/>
         </item>
     </channel>
 </rss>

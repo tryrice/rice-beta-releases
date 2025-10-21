@@ -4,11 +4,11 @@
         <title>Rice</title>
         <item>
             <title>0.0.93</title>
-            <pubDate>Tue, 21 Oct 2025 15:24:36 +0100</pubDate>
+            <pubDate>Tue, 21 Oct 2025 16:02:03 +0100</pubDate>
             <sparkle:version>0.0.93</sparkle:version>
             <sparkle:shortVersionString>0.0.93</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tryrice/rice-beta-releases/releases/download/beta-v0.0.93/RiceBeta.dmg" length="24595158" type="application/octet-stream" sparkle:edSignature="W8pEDEe7L1nQ3CUgrah8BX0Gn9u2qJmrw8cYloYovFZ27A+bOltqnp/Zr3BEwYCZrz8Hfyi6GmByREl8g5T9AQ=="/>
+            <enclosure url="https://github.com/tryrice/rice-beta-releases/releases/download/beta-v0.0.94/RiceBeta.dmg" length="24685700" type="application/octet-stream" sparkle:edSignature="dbls3nmWOWqdp97+jKPO7i6+v7qv6VgAdt8UXp64BJom5FdiAw8ZsqI/FJWdlTabmgpJ8nPsF9uIWDD4pPgtBg=="/>
         </item>
     </channel>
 </rss>

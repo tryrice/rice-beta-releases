@@ -3,12 +3,12 @@
     <channel>
         <title>Rice</title>
         <item>
-            <title>0.0.94</title>
-            <pubDate>Tue, 21 Oct 2025 16:11:35 +0100</pubDate>
-            <sparkle:version>0.0.94</sparkle:version>
-            <sparkle:shortVersionString>0.0.94</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tryrice/rice-beta-releases/releases/download/beta-v0.0.94/RiceBeta.dmg" length="24683208" type="application/octet-stream" sparkle:edSignature="GBwbM0AA6NnMaWfNEcfw1OL9+zoMu4WFDy7xptjn9KGuUI7KiCD0Qqco7+yI9qfvkXV63HBEIO/hZ/4nd5uBAA=="/>
+            <title>0.0.1</title>
+            <pubDate>Thu, 23 Oct 2025 13:13:34 +0100</pubDate>
+            <sparkle:version>0.0.1</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tryrice/rice-beta-releases/releases/download/beta-v0.1/Rice.dmg" length="25409156" type="application/octet-stream" sparkle:edSignature="+T7GR57sBR/2lZ6pYWu/DtaNMy4g9V42R65ahwNl7WDUTyzprUtUvBzd74V0riXo8KYzzBfCgwi1z2QndJaaBA=="/>
         </item>
     </channel>
 </rss>

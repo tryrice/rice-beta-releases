@@ -3,28 +3,39 @@
     <channel>
         <title>Rice</title>
         <item>
-            <title>0.11</title>
-            <pubDate>Wed, 29 Oct 2025 13:31:48 +0000</pubDate>
-            <sparkle:version>0.11</sparkle:version>
-            <sparkle:shortVersionString>0.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tryrice/rice-beta-releases/releases/download/beta-v0.11/Rice.dmg" length="25952010" type="application/octet-stream" sparkle:edSignature="8xN3QfBQ34sZAP7bZxd4V2zb4iOP4utlHN8V5abtV4m20CxAsOOmSxyXFY8387zgvMySkevfVpTOHDdVvMoWCA=="/>
-	    <description><![CDATA[
+            <title>0.13</title>
+            <pubDate>Mon, 03 Nov 2025 20:25:15 +0000</pubDate>
+            <sparkle:version>0.13</sparkle:version>
+            <sparkle:shortVersionString>0.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tryrice/rice-beta-releases/releases/download/beta-v0.13/Rice.dmg" length="26059457" type="application/octet-stream" sparkle:edSignature="37SWgQt9IV2GsONCOXJGbZNJvpK7A4iVH2pWuLWMCA5tjOw+qxL5sRGiCb4K+KaZs/ejvCEZppB93wDwNgFyCQ=="/>
+<description><![CDATA[
         
-        <p>This release is focused on powerful **team collaboration** features and significant **performance improvements** under the hood. Prepare for a faster, more connected experience!</p>
+        <h2>Major Update: Enhanced Experience and Performance</h2>
 
-    <h2>🚀 New Features</h2>
-    <ul>
-        <li><span class="new-tag">Team AI</span> **Ask Your Teammate's Shadow:** Get instant answers by querying the AI-powered "shadow" of your teammates' knowledge, documentation, and communications (with their explicit permission, of course!).</li>
-        <li><span class="new-tag">Collaboration</span> **Invite Teammates:** You can now easily invite colleagues directly to your workspace to share data sources and collaborate on insights.</li>
-        <li><span class="new-tag">Integrations</span> **New Data Connections:** We've dramatically expanded your ability to ingest data with new, seamless integrations for **Notion, Jira, Confluence, and Gmail**.</li>
-    </ul>
+<h3>Revamped UI for Better UX</h3>
+<p>We've completely overhauled the user interface (UI) to deliver a more intuitive and visually pleasing experience. Navigation is simpler, key tools are easier to access, and the overall workflow is smoother, allowing you to focus on your work.</p>
 
-    <h2>⚙️ Performance & Fixes</h2>
-    <ul>
-        <li>**Major Performance Boost:** The entire system is faster! We've moved our data ingestion pipeline to a highly efficient **event-driven architecture**, ensuring real-time data processing and better stability.</li>
-        <li><span class="fix-tag">Fix</span> Resolved an annoying bug that caused display issues when using the app across **multiple screens** or monitors.</li>
-    </ul>
+<h3>Multi-Display Support</h3>
+<p>Finally! You can now seamlessly use the application across multiple screens. This feature ensures that windows and panels behave correctly and retain their positions, improving productivity for users with complex monitor setups.</p>
+
+<h3>Better Privacy Handling</h3>
+<p>Your privacy is paramount. We've introduced enhanced controls and transparency in how your data is processed, giving you more granular options over what information is shared and how it's handled, ensuring greater peace of mind.</p>
+
+<h3>Voice First Interactions</h3>
+<p>Introducing a new way to interact! With Voice First Interactions, you can now use simple voice commands to control key functions within the app, making hands-free operation easier and faster than ever before.</p>
+
+<h3>'@' Tag Team Member Support</h3>
+<p>Collaboration just got a lot quicker. You can now use the '@' symbol followed by a teammate's name to tag them directly in notes, comments, or tasks, instantly notifying them and streamlining communication within the platform.</p>
+
+<h3>Performance Optimisation by 60%</h3>
+<p>Experience lightning-fast speed! Through deep architectural changes and resource management improvements, we've achieved a massive performance optimization, making the application up to 60% faster and significantly more responsive.</p>
+
+<h3>Keyboard Shortcuts for Ease</h3>
+<p>Power users rejoice! We've added a comprehensive set of new keyboard shortcuts for all major functions, allowing you to navigate and execute tasks with speed and efficiency without ever taking your hands off the keyboard.</p>
+
+<h3>macOS 14+ Support</h3>
+<p>We've fully updated and tested the application for complete compatibility with macOS 14 (Sonoma) and later, ensuring you get the best performance and take advantage of the latest features on Apple's newest operating system.</p>
     ]]>
     </description>
         </item>

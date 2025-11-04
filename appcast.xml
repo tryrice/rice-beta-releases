@@ -3,41 +3,17 @@
     <channel>
         <title>Rice</title>
         <item>
-            <title>0.14</title>
-            <pubDate>Mon, 03 Nov 2025 20:48:43 +0000</pubDate>
-            <sparkle:version>0.131</sparkle:version>
-            <sparkle:shortVersionString>0.14</sparkle:shortVersionString>
+            <title>0.14.2</title>
+            <pubDate>Tue, 04 Nov 2025 11:29:18 +0000</pubDate>
+            <sparkle:version>0.14</sparkle:version>
+            <sparkle:shortVersionString>0.14.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tryrice/rice-beta-releases/releases/download/beta-v0.13/Rice.dmg" length="26059368" type="application/octet-stream" sparkle:edSignature="2VcAIRJ789MJXomONCgdk+7LYALgi+saV9U2Sl0Uxm8Ng/JeMBQY2iRvQSrAImoDjWRs2GODnAlHvkgzu4m1AA=="/>
+            <enclosure url="https://github.com/tryrice/rice-beta-releases/releases/download/beta-v0.14.2/Rice.dmg" length="26062194" type="application/octet-stream" sparkle:edSignature="EWMMoj5ThjW8aG6WA5tgQi3odWr2F/1RVS/J1AB/pwq63T2KoYVVbaZw9Gn7HTsthpMgWerKONe7nyOFn8GyCQ=="/>
+        </item>
 <description><![CDATA[
         
-        <h2>Major Update: Enhanced Experience and Performance</h2>
-
-<h3>Revamped UI for Better UX</h3>
-<p>We've completely overhauled the user interface (UI) to deliver a more intuitive and visually pleasing experience. Navigation is simpler, key tools are easier to access, and the overall workflow is smoother, allowing you to focus on your work.</p>
-
-<h3>Multi-Display Support</h3>
-<p>Finally! You can now seamlessly use the application across multiple screens. This feature ensures that windows and panels behave correctly and retain their positions, improving productivity for users with complex monitor setups.</p>
-
-<h3>Better Privacy Handling</h3>
-<p>Your privacy is paramount. We've introduced enhanced controls and transparency in how your data is processed, giving you more granular options over what information is shared and how it's handled, ensuring greater peace of mind.</p>
-
-<h3>Voice First Interactions</h3>
-<p>Introducing a new way to interact! With Voice First Interactions, you can now use simple voice commands to control key functions within the app, making hands-free operation easier and faster than ever before.</p>
-
-<h3>'@' Tag Team Member Support</h3>
-<p>Collaboration just got a lot quicker. You can now use the '@' symbol followed by a teammate's name to tag them directly in notes, comments, or tasks, instantly notifying them and streamlining communication within the platform.</p>
-
-<h3>Performance Optimisation by 60%</h3>
-<p>Experience lightning-fast speed! Through deep architectural changes and resource management improvements, we've achieved a massive performance optimization, making the application up to 60% faster and significantly more responsive.</p>
-
-<h3>Keyboard Shortcuts for Ease</h3>
-<p>Power users rejoice! We've added a comprehensive set of new keyboard shortcuts for all major functions, allowing you to navigate and execute tasks with speed and efficiency without ever taking your hands off the keyboard.</p>
-
-<h3>macOS 14+ Support</h3>
-<p>We've fully updated and tested the application for complete compatibility with macOS 14 (Sonoma) and later, ensuring you get the best performance and take advantage of the latest features on Apple's newest operating system.</p>
+        <h2>Minor Fixes: Enhanced Experience and Performance</h2>
     ]]>
     </description>
-        </item>
     </channel>
 </rss>

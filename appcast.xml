@@ -3,17 +3,12 @@
     <channel>
         <title>Rice</title>
         <item>
-            <title>0.15</title>
-            <pubDate>Tue, 04 Nov 2025 11:53:22 +0000</pubDate>
-            <sparkle:version>0.15</sparkle:version>
-            <sparkle:shortVersionString>0.15</sparkle:shortVersionString>
+            <title>0.16.1</title>
+            <pubDate>Thu, 13 Nov 2025 11:09:50 +0000</pubDate>
+            <sparkle:version>0.16</sparkle:version>
+            <sparkle:shortVersionString>0.16.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tryrice/rice-beta-releases/releases/download/beta-v0.15-major/Rice.dmg" length="26062232" type="application/octet-stream" sparkle:edSignature="6y1etgM/KbUUowa6A8HVV2lMViix/nVU6Saqut88pg4pujjcpf9OQmEZxgohDHm0Pm9HMP9Mnp8DVRrnyLP0AA=="/>
+            <enclosure url="https://github.com/tryrice/rice-beta-releases/releases/download/beta-v0.16.1/Rice.dmg" length="26250166" type="application/octet-stream" sparkle:edSignature="5riZ164Cvd0tIaoCxkKd+zEufSoZewSEHcmYFYPkRLVX0Jxeqgr74rZQkIkaIDL+cqqgrE7BHl9EbaQEJi4tDg=="/>
         </item>
-        <description><![CDATA[
-                
-                <h2>Minor Fixes: Enhanced Experience and Performance</h2>
-            ]]>
-            </description>
     </channel>
 </rss>
